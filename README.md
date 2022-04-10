@@ -1,6 +1,6 @@
 # Butterfly_Innovatif_test
-
-![alt text](https://github.com/aiamirul/Omnilytics_Test/blob/main/meme.jpg?raw=true)
+Machine Vision Challenge
+OpenCV & Pandas
 ### Python 3 - Jupyter Notebooks containing answer main.ipynb
 https://github.com/aiamirul/Butterfly_Innovatif_test/blob/main/BUTTERFLY%20INNVOTIF.ipynb
 
@@ -31,7 +31,5 @@ OUTPUT RESULT
 
 
 
-Machine Vision Challenge
 
-OpenCV & Pandas
 
